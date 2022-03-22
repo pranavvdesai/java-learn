@@ -13,7 +13,6 @@ class B extends Hello {
     void method3() {
         System.out.println("Abstract method");
     }
-
 }
 public class Abstract {
     public static void main(String[] args) {
